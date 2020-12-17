@@ -1,0 +1,327 @@
+[
+ {
+   "symbol": "face to face",
+   "date": "01/10/2019",
+   "count": "24,344,901"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/10/2019",
+   "count": "271,405"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/10/2019",
+   "count": "3,624,208"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/10/2019",
+   "count": "195,524"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/10/2019",
+   "count": "1,567,170"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/11/2019",
+   "count": "21,531,910"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/11/2019",
+   "count": "251,106"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/11/2019",
+   "count": "3,444,334"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/11/2019",
+   "count": "176,057"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/11/2019",
+   "count": "1,355,240"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/12/2019",
+   "count": "18,770,999"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/12/2019",
+   "count": "237,332"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/12/2019",
+   "count": "3,252,172"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/12/2019",
+   "count": "157,579"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/12/2019",
+   "count": "1,143,601"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/01/2020",
+   "count": "21,733,392"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/01/2020",
+   "count": "266,942"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/01/2020",
+   "count": "3,701,774"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/01/2020",
+   "count": "194,206"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/01/2020",
+   "count": "1,252,300"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/02/2020",
+   "count": "19,230,573"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/02/2020",
+   "count": "227,935"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/02/2020",
+   "count": "3,322,241"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/02/2020",
+   "count": "172,638"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/02/2020",
+   "count": "1,104,609"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/03/2020",
+   "count": "15,921,790"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/03/2020",
+   "count": "172,773"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/03/2020",
+   "count": "6,637,653"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/03/2020",
+   "count": "127,230"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/03/2020",
+   "count": "1,147,130"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/04/2020",
+   "count": "7,480,937"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/04/2020",
+   "count": "100,673"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/04/2020",
+   "count": "7,652,390"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/04/2020",
+   "count": "44,213"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/04/2020",
+   "count": "703,655"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/05/2020",
+   "count": "7,729,597"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/05/2020",
+   "count": "112,018"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/05/2020",
+   "count": "7,813,733"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/05/2020",
+   "count": "41,650"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/05/2020",
+   "count": "699,372"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/06/2020",
+   "count": "9,763,381"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/06/2020",
+   "count": "133,805"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/06/2020",
+   "count": "9,849,385"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/06/2020",
+   "count": "59,057"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/06/2020",
+   "count": "854,108"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/07/2020",
+   "count": "11,184,671"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/07/2020",
+   "count": "140,787"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/07/2020",
+   "count": "10,114,285"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/07/2020",
+   "count": "80,764"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/07/2020",
+   "count": "928,517"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/08/2020",
+   "count": "10,391,965"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/08/2020",
+   "count": "119,273"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/08/2020",
+   "count": "8,744,907"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/08/2020",
+   "count": "77,190"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/08/2020",
+   "count": "783,931"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/09/2020",
+   "count": "15,093,120"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/09/2020",
+   "count": "148,985"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/09/2020",
+   "count": "10,262,227"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/09/2020",
+   "count": "124,282"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/09/2020",
+   "count": "1,031,187"
+ },
+ {
+   "symbol": "face to face",
+   "date": "01/10/2020",
+   "count": "16,870,620"
+ },
+ {
+   "symbol": "home visit",
+   "date": "01/10/2020",
+   "count": "161,720"
+ },
+ {
+   "symbol": "Telephone",
+   "date": "01/10/2020",
+   "count": "9,950,361"
+ },
+ {
+   "symbol": "Video/Online",
+   "date": "01/10/2020",
+   "count": "137,466"
+ },
+ {
+   "symbol": "Unknown",
+   "date": "01/10/2020",
+   "count": "1,116,026"
+ }
+]
